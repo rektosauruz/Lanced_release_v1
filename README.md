@@ -1,2 +1,5 @@
 # Lanced_release_v1
-LANCEDsource
+LANCED source code
+
+Researchgate link :
+https://www.researchgate.net/publication/333211124_A_Conceptual_Design_for_Managing_Internet_of_Things_Devices_in_Emergency_Situations
